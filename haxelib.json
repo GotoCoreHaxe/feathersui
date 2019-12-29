@@ -1,0 +1,18 @@
+{
+  "name": "gotocore-hx-feathersui",
+  "url": "https://github.com/GotoCoreHaxe/haxeui",
+  "license": "MIT",
+  "tags": [
+  ],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+    "gotocore-hx": "git::https://github.com/GotoCoreHaxe/core.git",
+    "feathersui":"git:https://github.com/BowlerHatLLC/feathersui-openfl.git"
+  }
+}
