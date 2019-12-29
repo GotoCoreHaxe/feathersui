@@ -1,4 +1,4 @@
-package feathersui.src.feathers.controls;
+package feathers.controls;
 
 import feathers.controls.LayoutGroup;
 
