@@ -1,5 +1,3 @@
--D feathersui=0.0.1-alpha
-# @install: lix --silent download "gh://github.com/BowlerHatLLC/feathersui-openfl#d880200deef40b5d2d331ada720c4ed8b2a9a298" into feathersui/0.0.1-alpha/github/d880200deef40b5d2d331ada720c4ed8b2a9a298
--lib actuate
--lib openfl
--cp ${HAXE_LIBCACHE}/feathersui/0.0.1-alpha/github/d880200deef40b5d2d331ada720c4ed8b2a9a298/src
+# @install: lix --silent download "gh://github.com/BowlerHatLLC/feathersui-openfl#5ab49550dd1d08e56dd424ce3916190bd0768dda" into feathersui/1.0.0-alpha.2/github/5ab49550dd1d08e56dd424ce3916190bd0768dda
+-cp ${HAXE_LIBCACHE}/feathersui/1.0.0-alpha.2/github/5ab49550dd1d08e56dd424ce3916190bd0768dda/src
+-D feathersui=1.0.0-alpha.2
