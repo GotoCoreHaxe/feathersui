@@ -13,6 +13,6 @@
   ],
   "dependencies": {
     "gotocore-hx": "git::https://github.com/GotoCoreHaxe/core.git",
-    "feathersui":"git:https://github.com/BowlerHatLLC/feathersui-openfl.git"
+    "feathersui":"git::https://github.com/BowlerHatLLC/feathersui-openfl.git"
   }
 }
